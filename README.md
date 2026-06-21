@@ -37,8 +37,8 @@
 9. [cite_start]**Round-Robin DNS Load Balancing:** Distributing traffic seamlessly across 4 redundant FTP servers[cite: 819, 821].
 
 ## Team Members
-* [cite_start]**Olcay Karahasan**
-* [cite_start]**Alp Kaya**
+**Olcay Karahasan**
+**Alp Kaya**
 
 ## How to Run
 1. Clone this repository.
